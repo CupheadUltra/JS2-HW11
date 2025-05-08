@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKE;;;;AAIA","sources":["src/style.css"],"sourcesContent":[".second-timer {\r\n    font-size: 24px;\r\n    transition: transform 0.3s;\r\n  }\r\n\r\n  .animate {\r\n    color: red;\r\n  }\r\n\r\n  button:disabled {\r\n    opacity: 0.5;\r\n  }"],"names":[],"version":3,"file":"JS2-HW11.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}

@@ -1,0 +1,13 @@
+.second-timer {
+  font-size: 24px;
+  transition: transform .3s;
+}
+
+.animate {
+  color: red;
+}
+
+button:disabled {
+  opacity: .5;
+}
+/*# sourceMappingURL=JS2-HW11.2cdaf7bc.css.map */
